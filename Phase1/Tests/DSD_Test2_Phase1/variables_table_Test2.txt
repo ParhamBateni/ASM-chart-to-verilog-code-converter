@@ -1,0 +1,191 @@
+Cycle: 1
+ASM Block: 1
+Variable	Value
+S	1
+*************************
+Cycle: 2
+ASM Block: 4
+Variable	Value
+S	1
+sum	0
+i	0
+e	20
+*************************
+Cycle: 3
+ASM Block: 4
+Variable	Value
+S	1
+sum	0
+i	1
+e	20
+*************************
+Cycle: 4
+ASM Block: 4
+Variable	Value
+S	1
+sum	1
+i	2
+e	20
+*************************
+Cycle: 5
+ASM Block: 4
+Variable	Value
+S	1
+sum	3
+i	3
+e	20
+*************************
+Cycle: 6
+ASM Block: 4
+Variable	Value
+S	1
+sum	6
+i	4
+e	20
+*************************
+Cycle: 7
+ASM Block: 4
+Variable	Value
+S	1
+sum	10
+i	5
+e	20
+*************************
+Cycle: 8
+ASM Block: 4
+Variable	Value
+S	1
+sum	15
+i	6
+e	20
+*************************
+Cycle: 9
+ASM Block: 4
+Variable	Value
+S	1
+sum	21
+i	7
+e	20
+*************************
+Cycle: 10
+ASM Block: 4
+Variable	Value
+S	1
+sum	28
+i	8
+e	20
+*************************
+Cycle: 11
+ASM Block: 4
+Variable	Value
+S	1
+sum	36
+i	9
+e	20
+*************************
+Cycle: 12
+ASM Block: 4
+Variable	Value
+S	1
+sum	45
+i	10
+e	20
+*************************
+Cycle: 13
+ASM Block: 4
+Variable	Value
+S	1
+sum	55
+i	11
+e	20
+*************************
+Cycle: 14
+ASM Block: 4
+Variable	Value
+S	1
+sum	66
+i	12
+e	20
+*************************
+Cycle: 15
+ASM Block: 4
+Variable	Value
+S	1
+sum	78
+i	13
+e	20
+*************************
+Cycle: 16
+ASM Block: 4
+Variable	Value
+S	1
+sum	91
+i	14
+e	20
+*************************
+Cycle: 17
+ASM Block: 4
+Variable	Value
+S	1
+sum	105
+i	15
+e	20
+*************************
+Cycle: 18
+ASM Block: 4
+Variable	Value
+S	1
+sum	120
+i	16
+e	20
+*************************
+Cycle: 19
+ASM Block: 4
+Variable	Value
+S	1
+sum	136
+i	17
+e	20
+*************************
+Cycle: 20
+ASM Block: 4
+Variable	Value
+S	1
+sum	153
+i	18
+e	20
+*************************
+Cycle: 21
+ASM Block: 4
+Variable	Value
+S	1
+sum	171
+i	19
+e	20
+*************************
+Cycle: 22
+ASM Block: 4
+Variable	Value
+S	1
+sum	190
+i	20
+e	20
+*************************
+Cycle: 23
+ASM Block: 4
+Variable	Value
+S	1
+sum	210
+i	21
+e	20
+*************************
+Cycle: 24
+ASM Block: 1
+Variable	Value
+S	1
+sum	210
+i	21
+e	20
+result	210
+ready	1
+*************************

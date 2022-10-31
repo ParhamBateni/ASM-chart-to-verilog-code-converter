@@ -1,0 +1,162 @@
+Cycle: 1
+ASM Block: 1
+Variable	Value
+S	1
+in1	11
+in2	13
+*************************
+Cycle: 2
+ASM Block: 4
+Variable	Value
+S	1
+in1	11
+in2	13
+R1	11
+R2	13
+R3	0
+R	0
+*************************
+Cycle: 3
+ASM Block: 6
+Variable	Value
+S	1
+in1	11
+in2	13
+R1	11
+R2	13
+R3	0
+R	0
+*************************
+Cycle: 4
+ASM Block: 6
+Variable	Value
+S	1
+in1	11
+in2	13
+R1	10
+R2	13
+R3	13
+R	0
+*************************
+Cycle: 5
+ASM Block: 6
+Variable	Value
+S	1
+in1	11
+in2	13
+R1	9
+R2	13
+R3	26
+R	0
+*************************
+Cycle: 6
+ASM Block: 6
+Variable	Value
+S	1
+in1	11
+in2	13
+R1	8
+R2	13
+R3	39
+R	0
+*************************
+Cycle: 7
+ASM Block: 6
+Variable	Value
+S	1
+in1	11
+in2	13
+R1	7
+R2	13
+R3	52
+R	0
+*************************
+Cycle: 8
+ASM Block: 6
+Variable	Value
+S	1
+in1	11
+in2	13
+R1	6
+R2	13
+R3	65
+R	0
+*************************
+Cycle: 9
+ASM Block: 6
+Variable	Value
+S	1
+in1	11
+in2	13
+R1	5
+R2	13
+R3	78
+R	0
+*************************
+Cycle: 10
+ASM Block: 6
+Variable	Value
+S	1
+in1	11
+in2	13
+R1	4
+R2	13
+R3	91
+R	0
+*************************
+Cycle: 11
+ASM Block: 6
+Variable	Value
+S	1
+in1	11
+in2	13
+R1	3
+R2	13
+R3	104
+R	0
+*************************
+Cycle: 12
+ASM Block: 6
+Variable	Value
+S	1
+in1	11
+in2	13
+R1	2
+R2	13
+R3	117
+R	0
+*************************
+Cycle: 13
+ASM Block: 6
+Variable	Value
+S	1
+in1	11
+in2	13
+R1	1
+R2	13
+R3	130
+R	0
+*************************
+Cycle: 14
+ASM Block: 6
+Variable	Value
+S	1
+in1	11
+in2	13
+R1	0
+R2	13
+R3	143
+R	0
+*************************
+Cycle: 15
+ASM Block: 1
+Variable	Value
+S	1
+in1	11
+in2	13
+R1	0
+R2	13
+R3	143
+R	1
+R4	143
+*************************

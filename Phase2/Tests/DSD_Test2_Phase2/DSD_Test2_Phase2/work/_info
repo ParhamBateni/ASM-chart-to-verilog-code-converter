@@ -1,0 +1,139 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1\DSD_Phase2_Test
+vcontrol_unit
+Z1 !s100 Z8ijPPh7ZJ[XbmDV]dZhn3
+Z2 IcZ<ZeV]R?l>cCT8aWQ>jX2
+Z3 VJmZTK3Fj:dNg^McFD5mbS1
+Z4 dC:\altera\13.1\DSD_Test2_Phase2
+Z5 w1658492583
+Z6 8C:/altera/13.1/DSD_Test2_Phase2/control_unit.v
+Z7 FC:/altera/13.1/DSD_Test2_Phase2/control_unit.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/altera/13.1/DSD_Test2_Phase2/control_unit.v|
+Z10 o-work work -O0
+Z11 !s108 1658492843.526000
+Z12 !s107 C:/altera/13.1/DSD_Test2_Phase2/control_unit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdata_path
+Z13 !s100 I;HdUolQf4mm812]:aA[[2
+Z14 I9]Sg?zTK>J;@<6JhglKz41
+Z15 VlZ;Qd3YkH_jNDlmChY2=m2
+R4
+Z16 w1658492628
+Z17 8C:/altera/13.1/DSD_Test2_Phase2/data_path.v
+Z18 FC:/altera/13.1/DSD_Test2_Phase2/data_path.v
+L0 1
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/altera/13.1/DSD_Test2_Phase2/data_path.v|
+R10
+Z20 !s108 1658492843.685000
+Z21 !s107 C:/altera/13.1/DSD_Test2_Phase2/data_path.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmain_program
+Z22 !s100 eGS:OLA9CgAU;`enA54hH1
+Z23 I4F2930M:619>LM[V`^KQ41
+Z24 Vh[`W>5DZQ3d2oZ:c[:G]c2
+R4
+Z25 w1658491997
+Z26 8C:/altera/13.1/DSD_Test2_Phase2/main_program.v
+Z27 FC:/altera/13.1/DSD_Test2_Phase2/main_program.v
+L0 1
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:/altera/13.1/DSD_Test2_Phase2/main_program.v|
+R10
+Z29 !s108 1658492843.824000
+Z30 !s107 C:/altera/13.1/DSD_Test2_Phase2/main_program.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmodule2
+Z31 !s100 Qc>UlB@4ZjMcdhio74W2F3
+Z32 INhYjj;=ZiebUTU<RaDIIe2
+Z33 VM`mzi9:2PXUdn[[G;n[ZV0
+R4
+R25
+Z34 8C:/altera/13.1/DSD_Test2_Phase2/module2.v
+Z35 FC:/altera/13.1/DSD_Test2_Phase2/module2.v
+L0 1
+R8
+r1
+31
+Z36 !s90 -reportprogress|300|-work|work|C:/altera/13.1/DSD_Test2_Phase2/module2.v|
+R10
+Z37 !s108 1658492844.014000
+Z38 !s107 C:/altera/13.1/DSD_Test2_Phase2/module2.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmodule5
+Z39 !s100 9liz;NKHB;Q>E:37G8kz53
+Z40 Im`R@dno4Ue3JIe7Di1Nm;0
+Z41 Vcf2b=Q>DU0Y;c9Y>N4?Tc2
+R4
+R25
+Z42 8C:/altera/13.1/DSD_Test2_Phase2/module5.v
+Z43 FC:/altera/13.1/DSD_Test2_Phase2/module5.v
+L0 1
+R8
+r1
+31
+Z44 !s90 -reportprogress|300|-work|work|C:/altera/13.1/DSD_Test2_Phase2/module5.v|
+R10
+Z45 !s108 1658492844.422000
+Z46 !s107 C:/altera/13.1/DSD_Test2_Phase2/module5.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTB
+Z47 IkFNUIDkkM1_FlRa7[RBzz1
+Z48 Vc<=32996OT2f`M7E_UhYX1
+R4
+Z49 w1658492837
+Z50 8C:/altera/13.1/DSD_Test2_Phase2/TestBench.v
+Z51 FC:/altera/13.1/DSD_Test2_Phase2/TestBench.v
+L0 1
+R8
+r1
+31
+Z52 !s90 -reportprogress|300|-work|work|C:/altera/13.1/DSD_Test2_Phase2/TestBench.v|
+R10
+n@t@b
+!i10b 1
+Z53 !s100 ^Ea6=dA5i[d;5zKfO97RY3
+!s85 0
+Z54 !s108 1658492844.599000
+Z55 !s107 C:/altera/13.1/DSD_Test2_Phase2/TestBench.v|
+!s101 -O0
+vtotal_module
+!i10b 1
+Z56 !s100 bM^>XQDCz^?Dj2J>3M2GN3
+Z57 IjfF:9UiS9<CdD5zn1RU[b3
+Z58 VRom6MFShoOlG3`BKXY:822
+R4
+R25
+Z59 8C:/altera/13.1/DSD_Test2_Phase2/total_module.v
+Z60 FC:/altera/13.1/DSD_Test2_Phase2/total_module.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1658492844.779000
+!s107 C:/altera/13.1/DSD_Test2_Phase2/total_module.v|
+Z61 !s90 -reportprogress|300|-work|work|C:/altera/13.1/DSD_Test2_Phase2/total_module.v|
+!s101 -O0
+R10

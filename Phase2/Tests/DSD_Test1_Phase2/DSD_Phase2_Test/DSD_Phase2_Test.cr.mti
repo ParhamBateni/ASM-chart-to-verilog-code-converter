@@ -1,0 +1,50 @@
+C:/altera/13.1/DSD_Phase2_Test/module5.v {1 {vlog -work work C:/altera/13.1/DSD_Phase2_Test/module5.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module module5
+
+Top level modules:
+	module5
+
+} {} {}} C:/altera/13.1/DSD_Phase2_Test/module2.v {1 {vlog -work work C:/altera/13.1/DSD_Phase2_Test/module2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module module2
+
+Top level modules:
+	module2
+
+} {} {}} C:/altera/13.1/DSD_Phase2_Test/main_program.v {1 {vlog -work work C:/altera/13.1/DSD_Phase2_Test/main_program.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module main_program
+
+Top level modules:
+	main_program
+
+} {} {}} C:/altera/13.1/DSD_Phase2_Test/control_unit.v {1 {vlog -work work C:/altera/13.1/DSD_Phase2_Test/control_unit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module control_unit
+
+Top level modules:
+	control_unit
+
+} {} {}} C:/altera/13.1/DSD_Phase2_Test/total_module.v {1 {vlog -work work C:/altera/13.1/DSD_Phase2_Test/total_module.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module total_module
+
+Top level modules:
+	total_module
+
+} {} {}} C:/altera/13.1/DSD_Phase2_Test/module8.v {1 {vlog -work work C:/altera/13.1/DSD_Phase2_Test/module8.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module module8
+
+Top level modules:
+	module8
+
+} {} {}} C:/altera/13.1/DSD_Phase2_Test/data_path.v {1 {vlog -work work C:/altera/13.1/DSD_Phase2_Test/data_path.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module data_path
+
+Top level modules:
+	data_path
+
+} {} {}}
